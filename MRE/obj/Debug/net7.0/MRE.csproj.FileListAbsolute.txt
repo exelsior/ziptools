@@ -1,0 +1,17 @@
+/Users/s.muryndin/Work/zeratul/MRE/MRE/bin/Debug/net7.0/MRE
+/Users/s.muryndin/Work/zeratul/MRE/MRE/bin/Debug/net7.0/MRE.deps.json
+/Users/s.muryndin/Work/zeratul/MRE/MRE/bin/Debug/net7.0/MRE.runtimeconfig.json
+/Users/s.muryndin/Work/zeratul/MRE/MRE/bin/Debug/net7.0/MRE.dll
+/Users/s.muryndin/Work/zeratul/MRE/MRE/bin/Debug/net7.0/MRE.pdb
+/Users/s.muryndin/Work/zeratul/MRE/MRE/bin/Debug/net7.0/System.IO.Hashing.dll
+/Users/s.muryndin/Work/zeratul/MRE/MRE/obj/Debug/net7.0/MRE.csproj.AssemblyReference.cache
+/Users/s.muryndin/Work/zeratul/MRE/MRE/obj/Debug/net7.0/MRE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s.muryndin/Work/zeratul/MRE/MRE/obj/Debug/net7.0/MRE.AssemblyInfoInputs.cache
+/Users/s.muryndin/Work/zeratul/MRE/MRE/obj/Debug/net7.0/MRE.AssemblyInfo.cs
+/Users/s.muryndin/Work/zeratul/MRE/MRE/obj/Debug/net7.0/MRE.csproj.CoreCompileInputs.cache
+/Users/s.muryndin/Work/zeratul/MRE/MRE/obj/Debug/net7.0/MRE.csproj.CopyComplete
+/Users/s.muryndin/Work/zeratul/MRE/MRE/obj/Debug/net7.0/MRE.dll
+/Users/s.muryndin/Work/zeratul/MRE/MRE/obj/Debug/net7.0/refint/MRE.dll
+/Users/s.muryndin/Work/zeratul/MRE/MRE/obj/Debug/net7.0/MRE.pdb
+/Users/s.muryndin/Work/zeratul/MRE/MRE/obj/Debug/net7.0/MRE.genruntimeconfig.cache
+/Users/s.muryndin/Work/zeratul/MRE/MRE/obj/Debug/net7.0/ref/MRE.dll

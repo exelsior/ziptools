@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JkrYQVCE3OaY2UydBsvjh9QNKe8VDA3l5iRUE/GB993iLWjzIqq+oJlZRfu4S4GMUZKNVGewL5TMtGnMIfsP7A==",
+  "success": true,
+  "projectFilePath": "/Users/s.muryndin/Work/zeratul/MRE/MRE/MRE.csproj",
+  "expectedPackageFiles": [
+    "/Users/s.muryndin/.nuget/packages/system.io.hashing/8.0.0/system.io.hashing.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
